@@ -19,8 +19,9 @@ class _SearchPageState extends State<SearchPage> {
   QuerySnapshot? searchSnapshot;
   bool hasUserSearched = false;
   String userName = "";
-  User? user;
   bool isJoined = false;
+  User? user;
+
 
   @override
   void initState() {
@@ -35,6 +36,10 @@ class _SearchPageState extends State<SearchPage> {
       });
     });
     user = FirebaseAuth.instance.currentUser;
+  }
+
+  String getName(String r) {
+    return r.substring(r.indexOf("_") +1);
   }
 
   @override

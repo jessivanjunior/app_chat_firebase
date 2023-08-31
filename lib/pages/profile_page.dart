@@ -114,9 +114,6 @@ class _ProfilePageState extends State<ProfilePage> {
                       ],
                     );
                   });
-              /*authService.signOut().whenComplete(() {
-                  nextScreenReplace(context, const LoginPage());
-                });*/
             },
             contentPadding:
                 const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
