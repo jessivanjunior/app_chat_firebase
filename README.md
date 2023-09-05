@@ -1,16 +1,19 @@
 # chat_firebase
 
-A new Flutter project.
+A chat app using flutter and firebase.
 
-## Getting Started
+## Screenshots:
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/42d82f0b-8eb1-4dc5-8ada-1f95f1a346ba)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/c5ca8585-8fbb-40a9-b439-5578afdfec8d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![3](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/0b4d0975-80e4-48bf-a82b-050708efb466)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/fe51a726-5b73-4610-b512-aedfcbf35ee4)
+
+![5](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/4aad470c-73df-484e-b4c2-4b0187b68fc4)
+
+![6](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/a26d9c99-ec89-46c0-83db-10fa9db22076)
+
+![7](https://github.com/jessivanjunior/app_chat_firebase/assets/16084092/291aae0f-31a3-4dba-862d-24889dd457f4)
