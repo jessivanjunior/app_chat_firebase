@@ -157,11 +157,11 @@ class _HomePageState extends State<HomePage> {
                           IconButton(
                             onPressed: () async {
                               await authService.signOut();
+                              Navigator.pop(context);
                               Navigator.of(context).pushAndRemoveUntil(
                                   MaterialPageRoute(
-                                      builder: (context) => const LoginPage()),
+                                      builder: (context) => LoginPage()),
                                   (route) => false);
-                              Navigator.pop(context);
                             },
                             icon: Icon(
                               Icons.done,
